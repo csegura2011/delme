@@ -12,4 +12,7 @@ print("----------------------------------")
 testmod1.print_version()
 
 
+for count in range(0,10):
+print("hello world: %d" % count)
+
 
